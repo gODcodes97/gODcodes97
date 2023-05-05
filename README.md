@@ -1,21 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Chibyke.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Chibyke
 
+I am a Blockchain Developer
 
-I am a blockchain developer.
+Enthusiastic about the blockchain, I have transformd my interest into a passion and career. Awesome right? Yeah, I know.
 
-Enthusiastic about the blockchain, I have transformed my interest into a passion and career. Awesome right? Yeah, I know.
+🌍 Enugu, South-Eastern Nigeria, Nigeria. West Africa
 
-🌍  Enugu, South-Eastern Nigeria, Nigeria. West Africa
+✉️ [chibykepride@gmail.com](mailto:chibykepride@gmail.com)
 
-✉️  [chibykepride@gmail.com](mailto:chibykepride@gmail.com)
+🚀 [BlockDB - Efficient management of document logistics with blockchain-based solutions.](http://blockdb.com)
 
-🚀  [BlockDB - Efficient management of document logistics with blockchain-based solutions.](http://blockdb.com)
+🧠 Everything Solidity
 
-🧠  Everything Solidity.
+🤝 I'm open to collaborating on blockchain projects
 
-🤝  I'm open to collaborating on blockchain projects
-
-⚡  ...Awesome...
+⚡ ...Awesome...
 
 ### Skills
 
