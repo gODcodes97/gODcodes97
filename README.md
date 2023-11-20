@@ -8,8 +8,6 @@ Enthusiastic about the blockchain, I have transformd my interest into a passion 
 
 - ✉️ [chibykepride@gmail.com](mailto:chibykepride@gmail.com)
 
-- 🚀 [BlockDB - Efficient management of document logistics with blockchain-based solutions.](http://blockdb.com)
-
 - 🧠 Everything Solidity
 
 - 🤝 I'm open to collaborating on blockchain projects
