@@ -4,11 +4,11 @@ I am a Blockchain Developer
 
 Enthusiastic about the blockchain, I have transformd my interest into a passion and career. Awesome right? Yeah, I know.
 
-- 🌍 Enugu, South-Eastern Nigeria, Nigeria. West Africa
+- 🌍 On-chain
 
 - ✉️ [chibykepride@gmail.com](mailto:chibykepride@gmail.com)
 
-- 🧠 Everything Solidity
+- 🧠 Everything web3
 
 - 🤝 I'm open to collaborating on blockchain projects
 
